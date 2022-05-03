@@ -1,0 +1,84 @@
+*
+{
+  font-family: Cambria;
+  font-size: 100%;
+}
+body{
+    background-image: url(img/new_bg.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+.myInfo
+{
+    height: 100%;
+    width:33%;
+    float: left;
+    margin-right: 2%;
+    color: azure;
+}
+.mySelf
+{
+    height: 100%;
+    background-color: whitesmoke;
+    margin-top: 3%;
+    color: black;
+    border-radius: 1%;
+}
+.theBody
+{
+    color: azure;
+    height: 100%;
+    width:65%;
+    float: right;
+}
+#myProfile
+{
+margin-bottom: 10%;
+ height:40%;
+ width: 40%;
+ border-radius: 100%;
+}
+#title
+{
+    color: azure;
+    text-align: center;
+    font-size: 170%;
+    margin-bottom: 5%;
+}
+a{
+    color: azure;
+    text-decoration: none;
+    margin: 0%;
+    padding: 2%;
+}
+a:link
+{
+
+}
+a:hover{
+    background-color: dimgray;
+}
+#grad, #pray, #sit
+{
+margin: 2%;
+height: 12%;
+width:12%;
+float: left;
+border-radius: 100%;
+}
+.firstPicture, .secondPicture, .thirdPicture
+{
+    background-color: rgb(235, 232, 232);
+    padding: 2%;
+    margin-bottom: 3%;
+    float: left;
+    height: 20%;
+    border-radius: 2%;
+}
